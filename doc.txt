@@ -1,0 +1,9 @@
+.venv\Scripts\activate
+
+pip install flask 
+pip install requests 
+pip install json
+pip install BeautifulSoup
+python -m flask run
+
+
